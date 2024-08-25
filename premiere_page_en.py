@@ -6,18 +6,6 @@ def show_premiere_page():
     st.title("Ayoub RABEH")
     st.subheader("Data Engineer - AI Engineer")
 
-    col1, col2, col3 = st.columns([1, 2, 1])
-
-    with col1:
-        st.write("")
-
-    with col2:
-        st.image("photo.jpg", width=150)
-
-    with col3:
-        st.write("")
-
-
     # Personal Information
     st.write("### PERSONAL INFORMATION")
     st.write("""
