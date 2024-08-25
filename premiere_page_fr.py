@@ -11,7 +11,26 @@ def show_premiere_page():
     st.write("""
     - **Localisation**: France  
     - **Téléphone**: +33665001243  
-    - **Nationalité**: Marocaine
+    """)
+
+    # Éducation
+    st.write("### ÉDUCATION")
+    st.write("""
+    **POEI Datascientest, Data Engineer**  
+    **Mai 2024 – Août 2024**  
+    
+    Programmation et Big Data : Python, SQL, NoSQL, POO, Linux & Bash, PySpark.  
+    Machine Learning et DevOps : Statistiques, Concepts de Machine Learning, Data Visualisation, MLflow, Docker, FastAPI.  
+    CI/CD et Monitoring : GitLab, Airflow, Prometheus & Grafana.
+
+    **INSA de Rouen, Saint Etienne du Rouvray**  
+    **2019 – 2022**  
+    
+    Génie Mathématique - Science des données (Analyse des données, Machine Learning, IA)
+
+    **Université Internationale de Rabat, Rabat**  
+    **2017 – 2019**  
+    Classe préparatoire - Spécialité : Mathématique - Physique.
     """)
 
     # Expérience professionnelle
@@ -33,26 +52,6 @@ def show_premiere_page():
     **Mai 2021 – Août 2021**  
 
     - Analyse et traitement des données environnementales pour expliquer les variations de température sur une falaise, utilisant des techniques avancées de l'IA.
-    """)
-
-    # Éducation
-    st.write("### ÉDUCATION")
-    st.write("""
-    **POEI Datascientest, Data Engineer**  
-    **Mai 2024 – Août 2024**  
-    
-    Programmation et Big Data : Python, SQL, NoSQL, POO, Linux & Bash, PySpark.  
-    Machine Learning et DevOps : Statistiques, Concepts de Machine Learning, Data Visualisation, MLflow, Docker, FastAPI.  
-    CI/CD et Monitoring : GitLab, Airflow, Prometheus & Grafana.
-
-    **INSA de Rouen, Saint Etienne du Rouvray**  
-    **2019 – 2022**  
-    
-    Génie Mathématique - Science des données (Analyse des données, Machine Learning, IA)
-
-    **Université Internationale de Rabat, Rabat**  
-    **2017 – 2019**  
-    Classe préparatoire - Spécialité : Mathématique - Physique.
     """)
 
     # Compétences

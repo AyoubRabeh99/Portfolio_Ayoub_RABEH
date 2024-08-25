@@ -11,7 +11,26 @@ def show_premiere_page():
     st.write("""
     - **Location**: France  
     - **Phone**: +33665001243  
-    - **Nationality**: Moroccan
+    """)
+
+    # Education
+    st.write("### EDUCATION")
+    st.write("""
+    **POEI Datascientest, Data Engineer**  
+    **May 2024 – August 2024**  
+    
+    Programming and Big Data: Python, SQL, NoSQL, OOP, Linux & Bash, PySpark.  
+    Machine Learning and DevOps: Statistics, Machine Learning Concepts, Data Visualization, MLflow, Docker, FastAPI.  
+    CI/CD and Monitoring: GitLab, Airflow, Prometheus & Grafana.
+
+    **INSA de Rouen, Saint Etienne du Rouvray**  
+    **2019 – 2022**  
+    
+    Mathematical Engineering - Data Science (Data Analysis, Machine Learning, AI)
+
+    **International University of Rabat, Rabat**  
+    **2017 – 2019**  
+    Preparatory Class - Specialty: Mathematics - Physics.
     """)
 
     # Professional Experience
@@ -33,26 +52,6 @@ def show_premiere_page():
     **May 2021 – August 2021**  
 
     - Analyzed and processed environmental data to explain temperature variations on a cliff, using advanced AI techniques.
-    """)
-
-    # Education
-    st.write("### EDUCATION")
-    st.write("""
-    **POEI Datascientest, Data Engineer**  
-    **May 2024 – August 2024**  
-    
-    Programming and Big Data: Python, SQL, NoSQL, OOP, Linux & Bash, PySpark.  
-    Machine Learning and DevOps: Statistics, Machine Learning Concepts, Data Visualization, MLflow, Docker, FastAPI.  
-    CI/CD and Monitoring: GitLab, Airflow, Prometheus & Grafana.
-
-    **INSA de Rouen, Saint Etienne du Rouvray**  
-    **2019 – 2022**  
-    
-    Mathematical Engineering - Data Science (Data Analysis, Machine Learning, AI)
-
-    **International University of Rabat, Rabat**  
-    **2017 – 2019**  
-    Preparatory Class - Specialty: Mathematics - Physics.
     """)
 
     # Skills
