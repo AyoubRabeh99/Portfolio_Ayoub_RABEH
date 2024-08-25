@@ -19,18 +19,18 @@ def show_premiere_page():
     **POEI Datascientest, Data Engineer**  
     **Mai 2024 – Août 2024**  
     
-    Programmation et Big Data : Python, SQL, NoSQL, POO, Linux & Bash, PySpark.  
-    Machine Learning et DevOps : Statistiques, Concepts de Machine Learning, Data Visualisation, MLflow, Docker, FastAPI.  
-    CI/CD et Monitoring : GitLab, Airflow, Prometheus & Grafana.
+    **Programmation et Big Data :** Python, SQL, NoSQL, POO, Linux & Bash, PySpark.  
+    **Machine Learning et DevOps :** Statistiques, Concepts de Machine Learning, Data Visualisation, MLflow, Docker, FastAPI.  
+    **CI/CD et Monitoring :** GitLab, Airflow, Prometheus & Grafana.
 
     **INSA de Rouen, Saint Etienne du Rouvray**  
     **2019 – 2022**  
     
-    Génie Mathématique - Science des données (Analyse des données, Machine Learning, IA)
+    **Génie Mathématique** - Science des données (Analyse des données, Machine Learning, IA)
 
     **Université Internationale de Rabat, Rabat**  
     **2017 – 2019**  
-    Classe préparatoire - Spécialité : Mathématique - Physique.
+    **Classe préparatoire** - Spécialité : Mathématique - Physique.
     """)
 
     # Expérience professionnelle
