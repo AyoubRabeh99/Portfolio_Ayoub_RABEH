@@ -21,13 +21,13 @@ def show_premiere_page():
     **November 2022 – March 2023**  
   
     - Implemented ETL pipelines to optimize maritime data processing and improve vessel Estimated Time of Arrival (ETA) at ports.
-    - Developed an AI algorithm to blur faces with 95% accuracy using Google Cloud Platform (GCP).
+    - Developed an AI algorithm to blur faces with 95% precision using Google Cloud Platform (GCP).
     
     **Data & AI Engineer at Sinay, Caen (Internship)**  
     **May 2022 – October 2022**  
     
     - Collected, transformed, processed, and stored data in GCP (Google Cloud Platform) related to marine species from fishing activities.
-    - Automated detection of marine mammals in videos with 85% accuracy, using AI models on Google Cloud Platform (GCP).
+    - Automated detection of marine mammals in videos with 85% precision, using AI models on Google Cloud Platform (GCP).
 
     **Research Assistant at CEREMA, Le Grand-Quevilly (Internship)**     
     **May 2021 – August 2021**  
