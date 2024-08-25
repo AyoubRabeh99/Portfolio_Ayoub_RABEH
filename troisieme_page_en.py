@@ -3,7 +3,7 @@ import streamlit as st
 def show_troisieme_page() :
 
     # Page title
-    st.title("Training")
+    st.title("Education")
 
     # Dropdown menu to choose the training
     option = st.selectbox("Choose a training", ["DataScientest", "INSA Rouen", "Preparatory Class International University of Rabat"])
